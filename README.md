@@ -8,6 +8,7 @@ practice database
   - [sql_practice3](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/sql_practice3.md)
   - [sql_practice4](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/sql_practice4.md)
   - [sql_practice5](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/sql_practice5.md)
+  - [sql_query_statement](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/sql_query_statement.md)
 
 
 
