@@ -11,6 +11,8 @@ practice database
   - [sql_query_statement](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/sql_query_statement.md)
   - [ddl_debugging](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/ddl_debugging.md)
   - [dml_quiz](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_quiz.md)
+  - [dml_practice1](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_practice1.md)
+
 
 
 
