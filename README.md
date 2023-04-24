@@ -13,6 +13,8 @@ practice database
   - [dml_quiz](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_quiz.md)
   - [dml_practice1](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_practice1.md)
   - [dml_practice2](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_practice2.md)
+  - [dml_practice3](https://github.com/JeongmoRyu/DB_pr/blob/main/DB_pr/dml_practice3.md)
+
 
 
 
